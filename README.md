@@ -143,15 +143,3 @@ This library is open-source. Feel free to modify and use it in your own RPG proj
 ---
 
 Happy coding! 🚀
-```
-
----
-
-### 🔥 **What’s included?**
-✅ Installation & Setup  
-✅ Usage examples (creating characters, quests, enemies, items)  
-✅ Detailed class documentation  
-✅ Unit testing guide  
-✅ Future development ideas  
-
-💡 Now you have a fully documented `README.md` that makes it easy for anyone to understand and use `rpgcore.py`. Let me know if you need modifications! 🚀😊
